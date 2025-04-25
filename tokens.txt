@@ -1,0 +1,24 @@
+Tipo: NUM                   Regex: [0-9]+                           Ex: 932, 5, 89, 9872553
+Tipo: STRING                Regex: "[^"]*"                          Ex: "this is a text"       
+Tipo: TEXT                  Regex: text                             Ex: text
+Tipo: VAR                   Regex: [a-zA-Z_][a-zA-Z0-9_]{0,29}      Ex: if9
+Tipo: FALSE                 Regex: false                            Ex: false
+Tipo: TRUE                  Regex: true                             Ex: true
+Tipo: SHOW                  Regex: show                             Ex: show
+Tipo: PLUS                  Regex: \+                               Ex: +
+Tipo: MINUS                 Regex: -                                Ex: -
+Tipo: MPY                   Regex: \*                               Ex: *
+Tipo: DIV                   Regex: /                                Ex: /
+Tipo: GT(Greater Than)      Regex: >                                Ex: >
+Tipo: LT (Less Than)        Regex: <                                Ex: <
+Tipo: EQ                    Regex: =                                Ex: =
+Tipo: EXC                   Regex: !                                Ex: !
+Tipo: AT                    Regex: @                                Ex: @
+Tipo: HASH                  Regex: #                                Ex: #
+Tipo: DOLLAR                Regex: \$                               Ex: $
+Tipo: PCT                   Regex: %                                Ex: %  
+Tipo: AMPERSAND             Regex: &                                Ex: &
+Tipo: QUESTION              Regex: \?                               Ex: ?
+Tipo: UNDERSCORE            Regex: _                                Ex: _
+Tipo: PIPE                  Regex: \|                               Ex: |
+Tipo: SEMICOLON             Regex: ;                                Ex: ;
