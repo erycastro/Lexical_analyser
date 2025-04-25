@@ -28,7 +28,7 @@ TOKENS = [
     ("SEMICOLON", r";"),
 ]
 
-# After the tokenization and definition os the regex patterns, we will start the regex to NFA process.
+# After the tokenization and definition of the regex patterns, we will start the regex to NFA process.
 # First, let's define a State class to represent the states of the NFA.
 
 class State:
