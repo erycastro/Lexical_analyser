@@ -1,0 +1,22 @@
+num a = 10;
+num b = 20;
+num soma = a + b;
+num produto = a * b;
+num diferenca = a - b;
+num divisao = b / a;
+
+text nome = "Maria";
+text saudacao = "Ola, ";
+text mensagem = saudacao;
+
+show nome;
+show mensagem;
+show soma;
+show produto;
+show diferenca;
+show divisao;
+
+num verdadeiro = true;
+num falso = false;
+show verdadeiro;
+show falso;

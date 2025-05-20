@@ -1,0 +1,22 @@
+text frase1 = "APENAS TEXTO ASC2!!!!!!!!!!!";
+text frase1 = "Bom dia!";
+text frase2 = "Tudo bem com voce?";
+text frase3 = "Hoje e segunda feira.";
+
+text nome_usuario = "Carlos, ";
+text cumprimento = " Seja bem vindo!!!!! ";
+text mensagem_final = cumprimento;
+
+show frase1;
+show frase2;
+show frase3;
+show nome_usuario;
+show mensagem_final;
+
+num idade = 30;
+num ano = 2025;
+text info = "Idade atual: ";
+
+show info;
+show idade;
+show ano;

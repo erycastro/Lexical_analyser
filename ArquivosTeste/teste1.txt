@@ -1,0 +1,11 @@
+num x = 5;
+num y = 10;
+num resultado1 = x + y * 2 - 3 / 1;
+num resultado2 = x > y;
+num resultado3 = x < y;
+num resultado4 = x = y;
+
+show resultado1;
+show resultado2;
+show resultado3;
+show resultado4;
